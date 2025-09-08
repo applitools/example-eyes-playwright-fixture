@@ -1,6 +1,6 @@
 # Applitools Example: Playwright in TypeScript
 
-This is the example project for the [Playwright TypeScript tutorial](https://applitools.com/tutorials/quickstart/web/playwright/typescript).
+This is the example project for the [Playwright TypeScript tutorial](https://applitools.com/tutorials/playwright).
 It shows how to start automating visual tests
 with [Applitools Eyes](https://applitools.com/platform/eyes/)
 and [Playwright](https://playwright.dev/) in TypeScript.
@@ -71,4 +71,4 @@ Test reports are generated in the `playwright-report/` directory.
 ## More Information
 
 For full instructions on running this project, see the
-[Playwright TypeScript tutorial](https://applitools.com/tutorials/quickstart/web/playwright/typescript)!
+[Playwright TypeScript tutorial](https://applitools.com/tutorials/playwright)!
