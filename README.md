@@ -1,4 +1,4 @@
-# Applitools Example: Playwright in TypeScript
+# Applitools Example: Playwright in TypeScript (with fixtures - the best practice)
 
 This is the example project for the [Playwright TypeScript tutorial](https://applitools.com/tutorials/playwright).
 It shows how to start automating visual tests
